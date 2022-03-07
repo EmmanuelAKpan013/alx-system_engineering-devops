@@ -1,2 +1,2 @@
 #!/bin/bash
-cydm
+grep "root" /etc/passwd
